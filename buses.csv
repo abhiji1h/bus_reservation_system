@@ -1,0 +1,4 @@
+id,name,type,route,time,seats
+1,exp1,ac,banglore-munnar,08:00,30
+2,exp2,non-ac,munnar-banglore,09:00,40
+3,exp3,ac sleeper,munnar-hyderabad,10:00,50
